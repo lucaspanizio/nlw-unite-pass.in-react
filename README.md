@@ -1,6 +1,5 @@
-<div>
-  <img src="https://i.postimg.cc/m2pHLtyQ/nlw-expert.png" alt="Logo NLW Unite" title="Logo NLW Unite" width="180" align="right">
-  <!-- ![alt text](image.png) -->
+<div>  
+  <img src="public/nlw-unite-icon.svg" alt="Logo NLW Unite" align="left" width="40px"/>
   <h1 align="left">Pass.in</h1>
 </div>
 <p align="left">  
@@ -14,7 +13,8 @@
   <a href="#-como-executar">⚡ Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">📜 Licença</a>
   <br><br>
-  <img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/d30d8507-2327-4c0d-b495-e9f19190783a" alt="Banner Projeto NLW Unite Pass.in" title="Banner Projeto NLW Unite Pass.in">  
+
+![GIF de apresentação da aplicação](https://github.com/lucaspanizio/nlw-unite-pass.in-react/assets/32407181/31eebc8c-ab5f-47cd-ba45-43dac79c3123)
 </p>
 <br>
 
@@ -25,7 +25,7 @@
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23ffc720" alt="Vite"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind CSS"></a>
-  <a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Lucide UI"/></a>
+  <a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/lucide%20icons-161618.svg?style=for-the-badge&logoColor=white" alt="Lucide Icons"/></a>
   <a href="https://axios-http.com/" target="_blank"><img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/></a>
   <a href="https://tanstack.com/" target="_blank"><img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query"/></a>  
   <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/></a>
@@ -34,7 +34,7 @@
 
 ## 🎨 Layout
 
-<img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/fdce046a-5626-4793-9bdd-67ee14a8d87e" alt="NLW Unit Pass.in" tittle="Web" width="800">
+<img src="https://github.com/lucaspanizio/nlw-unite-pass.in-react/assets/32407181/e96a599c-e780-4a31-b4a5-8aad945377f9" alt="Banner Projeto NLW Unite Pass.in" title="Banner Projeto NLW Unite Pass.in">  
 <p>Veja detalhes do design do <a href="https://www.figma.com/file/HE0J9JzhUpJJ7W31dr5hVZ/pass.in">projeto no Figma</a></p>
 <br>
 
