@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Oculta a barra de rolagem */
+/* Para navegadores WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Para navegadores Gecko (Firefox) */
+::-moz-scrollbar {
+  display: none;
+}
