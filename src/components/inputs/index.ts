@@ -1,7 +1,7 @@
-import { Text } from './text';
+import { Search } from './search';
 import { Checkbox } from './checkbox';
 
 export const Input = {
-  Text,
   Checkbox,
+  Search,
 };
