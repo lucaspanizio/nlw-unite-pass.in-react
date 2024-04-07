@@ -1,9 +1,10 @@
-<div>  
+<div>
+  <img src="https://github.com/lucaspanizio/nlw-unite-pass.in-react/assets/32407181/7d25bbbf-4e39-4ed1-aba8-160729d4e4cf" alt="Logo NLW Unite" tittle="Logo NLW Unite" width="180" align="right">
   <img src="public/nlw-unite-icon.svg" alt="Logo NLW Unite" align="left" width="40px"/>
   <h1 align="left">Pass.in</h1>
 </div>
 <p align="left">  
-  Aplicação Web desenvolvida na trilha React do evento NLW Unite da <a href="https://www.rocketseat.com.br/">RocketSeat</a>, com o objetivo de aprimorar meus conhecimentos, principalmente em React, Typescript e Tailwind CSS. No entanto, não me limitei ao conteúdo do curso e adicionei as seguintes melhorias: pattern de composição, alias path, React Router com hooks, React Query e Axios com interceptor.
+  Aplicação Web desenvolvida na trilha React do evento NLW Unite da <a href="https://www.rocketseat.com.br/">RocketSeat</a>, com o objetivo de aprimorar meus conhecimentos, principalmente em React, Typescript e Tailwind CSS. No entanto, não me limitei ao conteúdo do curso e adicionei as seguintes melhorias: composition pattern, alias path, React Router com hooks, React Query, Axios com interceptor e custom hook useDebounce na atribuição do param query.
 </p>
 
 <p align="center">
